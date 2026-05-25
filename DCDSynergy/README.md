@@ -1,7 +1,7 @@
 # DCDSynergy: A Drug–Cell Feature Fusion Framework for Predicting Synergistic Drug Combinations with Deep Learning
 
 This code repository is the supporting material in the paper. In this paper, we propose a novel approach called DCDSynergy, which leverages the integration of chemical structure data and gene expression data to predict the synergistic effects of drug combinations.
-
+<img width="2906" height="1022" alt="DCDSynergy" src="https://github.com/user-attachments/assets/f88c1acc-3c98-4268-bcc9-ed609041b08b" />
 
 
 ## Requirements

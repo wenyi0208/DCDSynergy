@@ -9,7 +9,7 @@ This code repository is the supporting material in the paper. In this paper, we 
 The third-party dependencies required for model running are listed in [environment.yaml](./environment.yaml). You can install the environment by running
 
 ```bash
-pip install -r requirements.txt
+conda env create -f environment.yaml
 ```
 
 ## Data preparation

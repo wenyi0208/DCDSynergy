@@ -6,7 +6,11 @@ This code repository is the supporting material in the paper. In this paper, we 
 
 ## Requirements
 
-The third-party dependencies required for model running are listed in [environment.yaml](./environment.yaml). 
+The third-party dependencies required for model running are listed in [environment.yaml](./environment.yaml). You can install the environment by running
+
+```bash
+pip install -r requirements.txt
+```
 
 ## Data preparation
 
